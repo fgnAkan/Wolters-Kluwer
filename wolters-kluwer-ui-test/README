@@ -1,0 +1,9 @@
+ChromeDriver ChromeDriver 103.0.5060.134 mac m1 driver is used --> https://chromedriver.storage.googleapis.com/index.html?path=103.0.5060.134/
+
+geckodriver-v0.31.0 mac driver is used
+
+Tests are running with TestNG
+
+Tests prepare with Page Object Design
+
+The project is Maven Project. So you should install dependencies 
